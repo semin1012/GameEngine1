@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/semin/Downloads/Exam3Starter/Content/Starter/M_Landscape.uasset",
+				"C:/Users/semin/Downloads/Exam3Starter/Content/Starter/GT_Tree.uasset",
+				"C:/Users/semin/Downloads/Exam3Starter/Content/Starter/GT_Grass.uasset",
+				"C:/Users/semin/Downloads/Exam3Starter/Content/Starter/BaseMap.umap",
+				"C:/Users/semin/Downloads/Exam3Starter/Content/Starter/BaseMap_sharedassets/Grass_LayerInfo.uasset",
+				"C:/Users/semin/Downloads/Exam3Starter/Content/Starter/BaseMap_sharedassets/Ground_LayerInfo.uasset",
+				"C:/Users/semin/Downloads/Exam3Starter/Content/Starter/BaseMap_sharedassets/FoligeGrass_LayerInfo.uasset",
+				"C:/Users/semin/Downloads/Exam3Starter/Content/Starter/BaseMap_sharedassets/FoligeTree_LayerInfo.uasset",
+				"C:/Users/semin/Downloads/Exam3Starter/Content/Starter/Blueprints/BP_Ball.uasset",
+				"C:/Users/semin/Downloads/Exam3Starter/Content/Starter/Blueprints/M_ICE.uasset",
+				"C:/Users/semin/Downloads/Exam3Starter/Content/Starter/Blueprints/M_ICE_Inst.uasset",
+				"C:/Users/semin/Downloads/Exam3Starter/Content/Assets/Granny/Sporty_Granny_Skeleton.uasset",
+				"C:/Users/semin/Downloads/Exam3Starter/Content/Starter/Animations/AttackMontage.uasset",
+				"C:/Users/semin/Downloads/Exam3Starter/Content/Assets/Granny/Sporty_Granny.uasset",
+				"C:/Users/semin/Downloads/Exam3Starter/Content/Starter/Blueprints/Granny.uasset",
+				"C:/Users/semin/Downloads/Exam3Starter/Content/Starter/Blueprints/PlayerHUD.uasset",
+				"C:/Users/semin/Downloads/Exam3Starter/Content/Starter/Blueprints/ZombieGameMode.uasset",
+				"C:/Users/semin/Downloads/Exam3Starter/Content/Starter/Blueprints/Zombie.uasset",
+				"C:/Users/semin/Downloads/Exam3Starter/Content/Assets/Zombie/WhiteClown_material.uasset",
+				"C:/Users/semin/Downloads/Exam3Starter/Content/Assets/Zombie/WhiteClown_material_Inst.uasset",
+				"C:/Users/semin/Downloads/Exam3Starter/Content/Starter/Blueprints/BossZombie.uasset"
+			]
+		}
+	]
+}
