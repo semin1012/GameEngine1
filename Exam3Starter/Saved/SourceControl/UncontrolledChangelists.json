@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/00.project/04.GameEngine/GameEngine1/Exam3Starter/Content/Starter/Blueprints/Granny.uasset",
+				"E:/00.project/04.GameEngine/GameEngine1/Exam3Starter/Content/Starter/M_ICE.uasset",
+				"E:/00.project/04.GameEngine/GameEngine1/Exam3Starter/Content/Starter/Blueprints/BP_HUD.uasset",
 				"D:/00.Project/GameEngine1/Exam3Starter/Content/Starter/Blueprints/Blueprint/BP_Ball.uasset",
 				"D:/00.Project/GameEngine1/Exam3Starter/Content/Starter/BaseMap.umap",
 				"D:/00.Project/GameEngine1/Exam3Starter/Content/Starter/Blueprints/HUD.uasset",
