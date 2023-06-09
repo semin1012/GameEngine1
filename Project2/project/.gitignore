@@ -5,6 +5,7 @@
 /Plugins
 *.sln
 *_BuiltData.uasset
+/Windows
 
 # Visual Studio 2015 user specific files
 .vs/
